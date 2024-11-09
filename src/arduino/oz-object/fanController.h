@@ -1,13 +1,13 @@
 // Copyright (C) 2024 OZ Developers
 //
 // OZ Fan Controller Module is free software: you can redistribute it and/or modify
-// it under the terms of the MIT License as published
+// it under the terms of the Apache 2.0 License as published
 // by the Open Source Initiative.
 //
 // OZ Fan Controller Module is distributed in the hope that it will be useful,
 // but WITHOUT ANY WARRANTY; without even the implied warranty of
 // MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-// MIT License for more details.
+// Apache 2.0 License for more details.
 
 #include "config.h"
 #include "utils.h"
